@@ -3,6 +3,8 @@ BEGIN
 A benchmark dataset for evaluating dialog system and natural language generation metrics.
 See our paper "Evaluating Groundedness in Dialogue Systems: The BEGIN Benchmark".
 
+This is not an officially supported Google product. This means that Google may not regularly
+release updates or provide support in conjunction with your use of this dataset.
 
 Authors
 -------
@@ -14,7 +16,8 @@ Authors
 
 Versions
 --------
-* Example release 4/2021: Only examples included
+* Example release 6/1/2021: Only examples included
+
 
 
 Format
