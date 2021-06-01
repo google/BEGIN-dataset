@@ -8,6 +8,7 @@ https://arxiv.org/abs/2105.00071 .
 This is not an officially supported Google product. This means that Google may not regularly
 release updates or provide support in conjunction with your use of this dataset.
 
+
 Authors
 -------
 * Nouha Dziri
@@ -24,13 +25,13 @@ Versions
 
 Documentation
 -------------
-Please refer to our paper:
+Note that the dataset has been revised since we wrote the preprint below. Reproducing the work, you
+will find small differences in your metrics compared to the preprint. We will update the
+paper at a later point in time. That said, please refer to the following preprint for documentation:
 
 Nouha Dziri, Hannah Rashkin, Tal Linzen, David Reitter.
 Evaluating Groundedness in Dialogue Systems: The BEGIN Benchmark.
-https://arxiv.org/abs/2105.00071
-[Submitted on 30 Apr 2021]
-
+https://arxiv.org/abs/2105.00071 [Submitted on 30 Apr 2021]
 
 
 Format
