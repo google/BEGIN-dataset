@@ -77,4 +77,6 @@ Versions
 * Example release 6/1/2021: Only examples included
 * First full release 6/1/2021
 * Second full release 6/1/2022: New data collection methodology
-
+  * We changed to a simplified annotation question design.
+  * We added output from two additional models (Doha and Ctrl-Dialog). 
+  * We added two datasets, TopicalChat and CMU-Dog.
