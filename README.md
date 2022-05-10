@@ -42,8 +42,10 @@ Data Format
 We split BEGIN into 90% test set and 10% development set,
 and store them in a tsv (tab-separated) format. Below, we define each column:
 
-    model name          The dialogue model used to generate responses (gpt2, t5, ctrl [CTRL-Dialog], doha)
-    data_source         The dialogue benchmark used to train the models (wow [Wiz. of Wikipedia], cmu [CMU DoG], tc [Topical Chat])
+    model name          The dialogue model used to generate responses
+	                    (gpt2, t5, ctrl [CTRL-Dialog], doha)
+    data_source         The dialogue benchmark used to train the models
+	                    (wow [Wiz. of Wikipedia], cmu [CMU DoG], tc [Topical Chat])
     knowledge           The knowledge-snippet on which the response should be grounded
     message             The previous turn in the dialogue history
     response            The generated response
